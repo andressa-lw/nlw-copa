@@ -100,14 +100,14 @@ npx expo start
 
 ## 🎉 Melhorias
 
-[x] Responsividade;
-[x] Alertas de erros e sucessos com a biblioteca Sweetalert2
+- [x] Responsividade;
+- [x] Alertas de erros e sucessos com a biblioteca Sweetalert2
 
 ---
 
 ## 🎨 Layout
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fqftv81RAPxUZS4YQBwCzy7%2FBol%25C3%25A3o-da-Copa-(Community)%3Fnode-id%3D301%253A254" allowfullscreen></iframe>
+- [Figma](<https://www.figma.com/file/qftv81RAPxUZS4YQBwCzy7/Bol%C3%A3o-da-Copa-(Community)?node-id=301%3A254>)
 
 ## 📝 Licença
 
